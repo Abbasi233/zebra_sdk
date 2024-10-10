@@ -64,9 +64,9 @@ public class ZebraSdkPlugin implements FlutterPlugin, MethodCallHandler {
                     "^LL" + labelLength +
                     "^CI28" +
                     "^CF0,20" +
-                    // gibLogo +
-                    // "^FB578,,,C,0^FO0,280^FDe-İrsaliye\\&^FS" +
-                    // aysanLogo +
+                    gibLogo +
+                    "^FB578,,,C,0^FO0,280^FDe-İrsaliye\\&^FS" +
+                    aysanLogo +
                     content +
                     "^XZ");
 
